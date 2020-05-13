@@ -3,9 +3,10 @@
 ## 浏览器原理相关课程
 
 > 本周教学进度没有同步教学大纲
-> ![http格式](./file/http.png)
 
 ### 相关知识
+
+![http格式](./file/http.png)
 
 - [浏览器：一个浏览器是如何工作的？（阶段一）](https://time.geekbang.org/column/article/80240)
 - [浏览器：一个浏览器是如何工作的？（阶段二）](https://time.geekbang.org/column/article/80260)
